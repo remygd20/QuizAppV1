@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizAppV1</string>
+    <string name="question_text">¿Android Studio es un IDE para desarrollo móvil?</string>
+    <string name="true_button_text">Verdadero</string>
+    <string name="false_button_text">Falso</string>
+    <string name="correct_toast">¡Respuesta Correcta!</string>
+    <string name="incorrect_toast">Respuesta Incorrecta.</string>
+</resources>
